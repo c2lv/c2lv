@@ -4,6 +4,8 @@
 
 [![hyeonpar's 42 stats](https://badge42.herokuapp.com/api/stats/hyeonpar?privacyEmail=false)](https://github.com/JaeSeoKim/badge42)
 
+[42Seoul is...](https://whitepaper.innovationacademy.kr/)  
+
 <!--
 **c2lv/c2lv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

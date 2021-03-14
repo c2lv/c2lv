@@ -4,7 +4,7 @@
 
 [![hyeonpar's 42 stats](https://badge42.herokuapp.com/api/stats/hyeonpar?privacyEmail=false)](https://github.com/JaeSeoKim/badge42)
 
-This is my [Baekjoon Online Judge](https://www.acmicpc.net/) profile.
+This is my [solved.ac](https://solved.ac/) profile.
 
 <a href="https://solved.ac/panpan8" rel="nofollow"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=panpan8" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=panpan8" style="max-width:100%;"></a>
 
